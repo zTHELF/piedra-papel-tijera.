@@ -1,0 +1,15 @@
+DOM
+    D = Document (documentos)
+    O = Object (objetos)
+    M = MODEL (modelo)
+
+El dom es la forma en que el/la programador/a puede manipular el documento html desde un lenguaje de programacion compatible.
+
+Nota: Javascript por defecto tiene integrado en su core (nucleo) la API para manipular el DOM.API
+
+API
+    A = Application (aplicaciones)
+    P = Programming (programacion)
+    I = Interface (interfaz)
+
+La API es el puente que un programador/a utiliza mediante codigo para comunicar 2 o mas aplicaciones que no se entienden (es decir, que hablan lenguajes diferentes).

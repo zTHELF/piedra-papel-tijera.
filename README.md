@@ -1,1 +1,1 @@
-# piedra-papel-tijera.
+En este repo, voy a subir el proyecto de codigo en html, css y javascript del juego de piedra, papel y tijera.
